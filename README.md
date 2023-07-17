@@ -21,7 +21,12 @@
 ## How to download
 
 ### Download and export snapshot simultaneously
-This method allows you to download and export the snapshot simultaneously. If there is no reason to save the snapshot, you can save time and disk space using this method. Change <YOUR-BASE-PATH-DIRECTORY>to the chain data directory before executing. (/var/lib/bifrost-data according to the operation manual)
+This method allows you to download and export the snapshot simultaneously. If there is no reason to save the snapshot, you can save time and disk space using this method. Change <YOUR-BASE-PATH-DIRECTORY> to the chain data directory before executing (```/var/lib/bifrost-data``` according to the operation manual). The expected download duration will take up to an **hour**.
+
+For instances that has not installed ```lz4```, it should be manually installed by the following command.
+```
+apt install lz4
+```
 
 ```
 cd <YOUR-BASE-PATH-DIRECTORY>
