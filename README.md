@@ -3,10 +3,10 @@
 ## Mainnet
 | Field | Value |
 | --- | --- |
-| Version | [v1.2.3](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.3) |
-| Block | [7018985](https://explorer.mainnet.bifrostnetwork.com/block/7018985/) (September-14-2023 01:44:24 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20230914.tar.lz4)
-| Size | 80G <-> 83G |
+| Version | [v1.2.4](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.4) |
+| Block | [7653600](https://explorer.mainnet.bifrostnetwork.com/block/7653600/) (October-6-2023 17:28:27 PM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20231006.tar.lz4)
+| Size | 87G <-> 92G |
 
 
 ## Testnet
