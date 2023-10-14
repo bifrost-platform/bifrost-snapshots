@@ -13,9 +13,9 @@
 | Field | Value |
 | --- | --- |
 | Version | [v1.2.4](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.4) |
-| Block | [9672820](https://explorer.testnet.bifrostnetwork.com/block/9672820/) (September-14-2023 01:44:15 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20230914.tar.lz4)
-| Size | 94G <-> 100G |
+| Block | [10537527](https://explorer.testnet.bifrostnetwork.com/block/10537527/) (October-14-2023 02:19:36 PM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20231014.tar.lz4)
+| Size | 100G <-> 108G |
 
 
 ## How to download
