@@ -3,19 +3,19 @@
 ## Mainnet
 | Field | Value |
 | --- | --- |
-| Version | [v1.2.4](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.4) |
-| Block | [9634191](https://explorer.mainnet.bifrostnetwork.com/block/9634191/) (December-14-2023 12:16:36 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20231214.tar.lz4)
-| Size | 120.8G <-> 136G |
+| Version | [v1.2.5](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.5) |
+| Block | [10640366](https://explorer.mainnet.bifrostnetwork.com/block/10640366/) (January-18-2024 10:49:12 AM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20240118.tar.lz4)
+| Size | 143G <-> 170G |
 
 
 ## Testnet
 | Field | Value |
 | --- | --- |
-| Version | [v1.2.4](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.4) |
-| Block | [12291865](https://explorer.testnet.bifrostnetwork.com/block/12291865/) (December-14-2023 12:16:30 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20231214.tar.lz4)
-| Size | 115.6G <-> 130G |
+| Version | [v1.2.5](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.2.5) |
+| Block | [13298121](https://explorer.testnet.bifrostnetwork.com/block/13298121/) (January-18-2024 10:49:18 AM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20240118.tar.lz4)
+| Size | 126G <-> 151G |
 
 
 ## How to download
