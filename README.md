@@ -4,18 +4,18 @@
 | Field | Value |
 | --- | --- |
 | Version | [v1.3.0](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.3.0) |
-| Block | [13184897](https://explorer.mainnet.bifrostnetwork.com/block/13184897/) (April-15-2024 07:23:15 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20240415.tar.lz4)
-| Size | 297G <-> 360G |
+| Block | [14069278](https://explorer.mainnet.bifrostnetwork.com/block/14069278/) (May-16-2024 12:30:36 PM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/mainnet/bifrost-mainnet-20240516.tar.lz4)
+| Size | 283G <-> 333G |
 
 
 ## Testnet
 | Field | Value |
 | --- | --- |
 | Version | [v1.3.0](https://github.com/bifrost-platform/bifrost-node/releases/tag/v1.3.0) |
-| Block | [15842344](https://explorer.testnet.bifrostnetwork.com/block/15842344/) (April-15-2024 07:23:00 PM +9 UTC) |
-| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20240415.tar.lz4)
-| Size | 146G <-> 162G |
+| Block | [16726896](https://explorer.testnet.bifrostnetwork.com/block/16726896/) (May-16-2024 12:30:36 PM +9 UTC) |
+| Link | [Download](https://bifrost-chaindata.s3.ap-northeast-2.amazonaws.com/testnet/bifrost-testnet-20240516.tar.lz4)
+| Size | 146G <-> 155G |
 
 
 ## How to download
