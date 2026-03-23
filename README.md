@@ -6,17 +6,17 @@ Bifrost node chain data snapshots for fast node synchronization.
 
 | Network | Mode    | Compressed | Extracted | Download |
 |---------|---------|------------|-----------|----------|
-| Mainnet | Archive | 802 GB     | 1.6 TB    | [mainnet.archive.32597485.tar.zst][1] |
-| Mainnet | Full    | 80 GB      | 93 GB     | [mainnet.full.32596432.tar.zst][2] |
-| Testnet | Archive | 318 GB     | 457 GB    | [testnet.archive.35241142.tar.zst][3] |
-| Testnet | Full    | 22 GB      | 28 GB     | [testnet.full.35240856.tar.zst][4] |
+| Mainnet | Archive | 833 GB     | 1.7 TB    | [mainnet.archive.33408325.tar.zst][1] |
+| Mainnet | Full    | 80 GB      | 94 GB     | [mainnet.full.33407302.tar.zst][2] |
+| Testnet | Archive | 329 GB     | 472 GB    | [testnet.archive.36069834.tar.zst][3] |
+| Testnet | Full    | 23 GB      | 28 GB     | [testnet.full.36069539.tar.zst][4] |
 
 > **Node Version:** [v2.1.0][version]
 
-[1]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/archive/bifrost-archivenode-mainnet-260220.tar.zst
-[2]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/full/bifrost-fullnode-mainnet-260220.tar.zst
-[3]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/archive/bifrost-archivenode-testnet-260219.tar.zst
-[4]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/full/bifrost-fullnode-testnet-260219.tar.zst
+[1]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/archive/bifrost-archivenode-mainnet-260320.tar.zst
+[2]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/full/bifrost-fullnode-mainnet-260320.tar.zst
+[3]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/archive/bifrost-archivenode-testnet-260320.tar.zst
+[4]: https://pub-af47211e285e4c41ab47c161353e5c13.r2.dev/full/bifrost-fullnode-testnet-260320.tar.zst
 [version]: https://github.com/bifrost-platform/bifrost-node/releases/tag/v2.1.0
 
 ## Prerequisites
